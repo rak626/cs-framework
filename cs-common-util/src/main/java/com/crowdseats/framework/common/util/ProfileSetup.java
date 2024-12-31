@@ -1,4 +1,4 @@
-package com.crowdseats.framework.common_util;
+package com.crowdseats.framework.common.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
